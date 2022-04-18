@@ -1,0 +1,7 @@
+type Cryptocycles @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  username: String!
+  password: Int
+  cyclestatus: Boolean
+  testfield: String
+} 

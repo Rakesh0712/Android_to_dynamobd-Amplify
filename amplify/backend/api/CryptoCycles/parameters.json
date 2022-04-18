@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "CryptoCycles",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-04-17T18:33:53.982Z"
+}

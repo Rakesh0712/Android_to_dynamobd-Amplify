@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cryptocycles-staging-173907-authRole",
+      "UnauthRoleArn": "arn:aws:iam::915724467137:role/amplify-cryptocycles-staging-173907-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::915724467137:role/amplify-cryptocycles-staging-173907-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-cryptocycles-staging-173907-deployment",
+      "UnauthRoleName": "amplify-cryptocycles-staging-173907-unauthRole",
+      "StackName": "amplify-cryptocycles-staging-173907",
+      "StackId": "arn:aws:cloudformation:eu-west-1:915724467137:stack/amplify-cryptocycles-staging-173907/48a385d0-be75-11ec-be56-0af86bc36465",
+      "AmplifyAppId": "d5lclnpa5trys"
+    }
+  }
+}
